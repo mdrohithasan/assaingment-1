@@ -1,0 +1,397 @@
+.banner {
+    font-family: "Merriweather", serif;
+    background-image: url(../resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    margin: 50px 250px 0px 250px;
+
+}
+
+.banner-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    padding-top: 80px;
+}
+
+.banner-discription {
+    color: rgb(255, 255, 255);
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+    padding-bottom: 183px;
+}
+
+.banner-2 {
+    font-family: "Inter", sans-serif;
+}
+
+.banner-title-2 {
+    color: rgb(255, 0, 0);
+    font-size: 88px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.banner-discription-2 {
+    color: rgb(255, 0, 0);
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.banner-catagory {
+    color: rgb(7, 2, 17);
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.img-1 {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.banner-vector-3 {
+    background-image: url(../resources/Vectorrr.png);
+    background-repeat: repeat;
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 130px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.banner-title-3 {
+    color: rgb(255, 255, 255);
+    font-family: "Merriweather", serif;
+    font-size: 64px;
+    font-weight: 900;
+    align-items: center;
+    margin-top: 126px;
+}
+
+.banner-discription-3 {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.banner-time {
+    color: rgb(255, 255, 255);
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.img-2 {
+    width: 349.16px;
+    height: 464.65px;
+    margin-top: 68px;
+}
+
+.banner-4 {
+    text-align: center;
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0) 100%);
+    width: 1320px;
+    height: 482px;
+    margin-top: 120px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.banner-tittle-4 {
+    Font-weight: 600;
+    Font-size: 32px;
+    font-family: "Inter", sans-serif;
+}
+
+.red {
+    color: rgb(255, 0, 0);
+}
+
+.btn-primary {
+    color: rgb(255, 255, 255);
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    width: 167px;
+    height: 56px;
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    margin-top: 48px;
+}
+
+.banner-child {
+    padding: 100px 385px;
+}
+
+.offer-head {
+    color: rgb(255, 0, 0);
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.offer-title {
+    color: rgb(7, 2, 17);
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.offer-discription {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.offer-year {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.banner-offer {
+    display: flex;
+    justify-content: space-between;
+    width: 1320px;
+    height: 463px;
+    margin-top: 120px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.img-3 {
+    width: 463px;
+    height: 463px;
+}
+
+.holiday-discount {
+    width: 1320px;
+    height: 986.07px;
+    margin-top: 120px;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-image: url(../resources/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.discount-head {
+    color: rgb(7, 2, 17);
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.discount-title {
+    font-family: "Merriweather", serif;
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.discount-discription {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.images {
+    display: flex;
+    margin-top: 120px;
+    justify-content: space-between;
+}
+
+.span-2 {
+    color: rgb(255, 0, 0);
+}
+
+.img-0 {
+    width: 674.82px;
+    height: 577.96px;
+}
+
+.img-00 {
+    width: 206.84px;
+    height: 206.84px;
+    margin-top: 100px;
+}
+
+.img-000 {
+    width: 429px;
+    height: 433px;
+}
+
+/* body */
+.portfolio-head {
+    color: rgb(255, 0, 0);
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.portfolio-title {
+    color: rgb(7, 2, 17);
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.portfolio-discription {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 48px;
+}
+
+.images-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.images-2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+}
+
+.portfolio {
+    margin-top: 120px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+/* subcribe */
+.subscribe {
+    margin-top: 120px;
+    margin-left: 250px;
+    margin-right: 250px;
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.image-email {
+    margin: 94px 594px 0px 594px;
+}
+
+.subscribe-title {
+    color: rgb(7, 2, 17);
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.subscribe-discription {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.subscribe-button {
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 16px;
+}
+
+.button {
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+}
+
+.inter-email {
+    width: 648px;
+    height: 72px;
+    border-radius: 50px 0px 0px 50px;
+    background: rgb(255, 255, 255);
+    color: rgba(7, 2, 17, 0.3);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    width: 1600px;
+    height: 609px;
+    background: rgb(7, 2, 17);
+    margin-left: 110px;
+    margin-top: 120px;
+}
+
+.footer-img {
+    margin-top: 325px;
+}
+
+.p1,
+.p2 {
+    color: rgb(255, 255, 255);
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.px,
+.py,
+.pz {
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.p1{
+    margin-top: 120px;
+    margin-left: 140px;
+}
+.p2{
+    margin-top: 260px;
+    margin-left: 140px;
+}
+.px{
+    margin-top: 120px;
+    margin-right: 290px;
+}
+.py{
+    margin-top: 10px;
+    margin-right: 275px;
+}
+.pz{
+    margin-top: 260px;
+    margin-left: 230px;
+
+}
